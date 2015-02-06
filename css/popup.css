@@ -1,7 +1,8 @@
 .onLoadPOPUP {
-	width:400px; /* test */
+	width:400px;
 	height:250px;
-	background:red; }
+	background:#CC0000;
+	color:yellow; }
 
 .yes-button {
 	margin:0 20px 0 0;
