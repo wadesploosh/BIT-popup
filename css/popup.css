@@ -1,0 +1,21 @@
+.onLoadPOPUP {
+	width:400px;
+	height:250px;
+	background:red; }
+
+.yes-button {
+	margin:0 20px 0 0;
+	background:#333;
+	color:#fff !important;
+	text-transform:uppercase;
+	font-family:'DroidSerifRegular',Georgia,"Times New Roman",Times,serif;
+	font-size:14px;
+	height:35px;
+	padding:0 12px;
+	display:inline-block;
+	cursor:pointer;
+	line-height:35px; }
+	
+.close-button:hover { text-decoration:underline; }
+
+.step-two, .step-three { display:none; }
